@@ -1,0 +1,14 @@
+Nice! Shortcuts intented to configure shortcuts on Windows without install a program, just run the .exe file, and provide a easy way to apply configurations at another any computer.
+
+All needed is a file calling shortcuts.xml with your configurations at the same directory of NiceShortcuts.exe.
+
+Shortcuts.xml looks like this:
+
+> <?xml version="1.0"?>
+> <ArrayOfNiceShortcut xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+>  <NiceShortcut Name="Winamp" HotKey="Control+Shift+W" Command="Winamp" />
+>  <NiceShortcut Name="Winamp" HotKey="Windows+Alt+G" Command="chrome" />
+> </ArrayOfNiceShortcut>
+
+Each time Shortcuts.xml change, NiceShortcuts.exe has to be reinitialized.
+
