@@ -1,0 +1,8 @@
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\bin\Debug\NiceShortcutsTests.dll
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\bin\Debug\NiceShortcutsTests.pdb
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\bin\Debug\NiceShortcuts.exe
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\bin\Debug\NiceShortcuts.pdb
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\obj\Debug\NiceShortcutsTests.dll
+C:\Documents and Settings\leandro.thimoteo.XPCORRETORA\Meus documentos\Visual Studio 2008\Projects\NiceKeyboard\NiceShortcutsTests\obj\Debug\NiceShortcutsTests.pdb

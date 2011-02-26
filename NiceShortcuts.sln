@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiceShortcutsTests", "NiceShortcutsTests\NiceShortcutsTests.csproj", "{DADDFCC5-CAEB-470E-9269-851101793BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiceShortcuts", "NiceShortcuts\NiceShortcuts.csproj", "{B588E54E-4FEA-45DE-901B-9D02DD8C1580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DADDFCC5-CAEB-470E-9269-851101793BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADDFCC5-CAEB-470E-9269-851101793BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADDFCC5-CAEB-470E-9269-851101793BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADDFCC5-CAEB-470E-9269-851101793BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B588E54E-4FEA-45DE-901B-9D02DD8C1580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B588E54E-4FEA-45DE-901B-9D02DD8C1580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B588E54E-4FEA-45DE-901B-9D02DD8C1580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B588E54E-4FEA-45DE-901B-9D02DD8C1580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
